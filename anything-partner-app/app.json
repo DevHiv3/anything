@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "anything",
-    "slug": "anything",
+    "name": "Anything's Partner",
+    "slug": "anything-partner-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/app-logo.png",
@@ -20,16 +20,19 @@
         "foregroundImage": "./assets/app-logo.png",
         "backgroundColor": "#000000"
       },
-      "package": "com.anything.app"
+      "package": "com.anythingpartner.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "3ff5cae5-dd88-4307-9436-09767952f35c"
+        "projectId": "b2a670f3-88bf-492c-a6b2-9e161984b11c"
       }
     },
-    "owner": "dev.hiv3"
+    "owner": "dev.hiv3",
+    "plugins": [
+      "expo-secure-store"
+    ]
   }
 }

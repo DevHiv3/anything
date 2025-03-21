@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "anything",
-    "slug": "anything",
+    "name": "Anything's Admin",
+    "slug": "anything-admin-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/app-logo.png",
@@ -20,14 +20,14 @@
         "foregroundImage": "./assets/app-logo.png",
         "backgroundColor": "#000000"
       },
-      "package": "com.anything.app"
+      "package": "com.anythingadmin.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "3ff5cae5-dd88-4307-9436-09767952f35c"
+        "projectId": "16d9c83c-6a27-45ff-abc6-1557b4789269"
       }
     },
     "owner": "dev.hiv3"
